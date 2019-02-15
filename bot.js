@@ -636,7 +636,7 @@ client.on('message', message => {
 
         .setDescription('**برفكس البوت (!)**')
 
-        .addField('play', 'لتشغيل اغنية')
+        .addField('play1', 'لتشغيل اغنية')
 
         .addField('join', 'دخول رومك الصوتي')
 
